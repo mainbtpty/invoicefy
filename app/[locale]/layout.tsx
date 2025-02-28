@@ -49,7 +49,7 @@ export const metadata: Metadata = {
         canonical: BASE_URL,
     },
     authors: {
-        name: "Ali Abbasov",
+        name: "Oni Charles",
         url: "https://aliabb.vercel.app",
     },
     verification: {
